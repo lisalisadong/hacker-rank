@@ -1,5 +1,6 @@
-package findDigits;
 // https://www.hackerrank.com/challenges/find-digits
+
+package findDigits;
 
 import java.util.*;
 import java.text.*;
